@@ -1,5 +1,3 @@
-# taipy/gui/components/metric.py
-
 def render_metric(value, width='150', height='150'):
     """
     Renders a metric with specified width and height.
